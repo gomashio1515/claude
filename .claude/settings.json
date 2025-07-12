@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "deny": [
+      "Bash(rm -rf /)",
+      "Bash(rm -rf ~)",
+      "Bash(rm -rf ~/*)",
+      "Bash(rm -rf /*)",
+      "Bash(del /s /q C:\\*)",
+      "Bash(rd /s /q C:\\)",
+      "Bash(format C:)",
+      "Bash(rmdir /s /q C:\\Users)"
+    ]
+  }
+}
