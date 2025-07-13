@@ -2,7 +2,8 @@
   "permissions": {
     "allow": [
       "WebFetch(domain:zenn.dev)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(npm install:*)"
     ],
     "deny": []
   }
